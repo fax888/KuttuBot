@@ -16,7 +16,7 @@ def is_enabled(value, default):
 SESSION = environ.get('SESSION', 'phoenixfilterbot')
 API_ID = int(environ.get('API_ID', '21383441'))
 API_HASH = environ.get('API_HASH', '62141d4cefa2756e4059cbdeac6ab46b')
-BOT_TOKEN = environ.get('BOT_TOKEN', '7556904990:AAGOtFtOS0Q7c7p9w3_jhZ3lIgCLY4h8xsg')
+BOT_TOKEN = environ.get('BOT_TOKEN', '6669277616:AAF_Q7Q-JkDR1KczO6OiVFKYJA3NV2r28aU')
 
 # Restart interval for auto-restart: use 'd' for days, 'h' for hours, 'm' for minutes
 # Examples !!! :
@@ -43,11 +43,11 @@ CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHAN
 auth_users = [int(user) if id_pattern.search(user) else user for user in environ.get('AUTH_USERS', '').split()]
 AUTH_USERS = (auth_users + ADMINS) if auth_users else []
 auth_grp = environ.get('AUTH_GROUP')
-DEFAULT_AUTH_CHANNELS = [int(x) for x in environ.get("AUTH_CHANNEL", "").split() if x.lstrip('-').isdigit()]
+DEFAULT_AUTH_CHANNELS = [int(x) for x in environ.get("AUTH_CHANNEL", "-1003293176917").split() if x.lstrip('-').isdigit()]
 AUTH_GROUPS = [int(ch) for ch in auth_grp.split()] if auth_grp else None
 
 # MongoDB information
-DATABASE_URI = environ.get('DATABASE_URI', "")
+DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://fax008f_8PnHdr2NMKU:NSxUbHMzP4D79SqT@cluster0.nn9tq0c.mongodb.net/?appName=Cluster0")
 DATABASE_NAME = environ.get('DATABASE_NAME', "DB")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'files')
 
