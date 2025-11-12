@@ -29,7 +29,7 @@ RESTART_INTERVAL = environ.get("RESTART_INTERVAL", "3d")
 BOT_START_TIME = time()
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', False))
-PICS = (environ.get('PICS', '')).split()
+PICS = (environ.get('PICS', 'https://envs.sh/yvl.jpg')).split()
 
 FILE_CHANNELS = [int(ch) for ch in environ.get('FILE_CHANNELS', '-1002658908912 -1002658908912').split()]
 FILE_CHANNEL_SENDING_MODE = is_enabled(environ.get('FILE_CHANNEL_SENDING_MODE', 'False'), False)
