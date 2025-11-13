@@ -31,7 +31,7 @@ CACHE_TIME = int(environ.get('CACHE_TIME', 300))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', False))
 PICS = (environ.get('PICS', 'https://envs.sh/yvl.jpg')).split()
 
-FILE_CHANNELS = [int(ch) for ch in environ.get('FILE_CHANNELS', '-1002658908912 -1002658908912').split()]
+FILE_CHANNELS = [int(ch) for ch in environ.get('FILE_CHANNELS', '-1002658908912').split()]
 FILE_CHANNEL_SENDING_MODE = is_enabled(environ.get('FILE_CHANNEL_SENDING_MODE', 'False'), False)
 FILE_AUTO_DELETE_SECONDS = int(environ.get('FILE_AUTO_DELETE_SECONDS', 3600))  # Default: 1 hour
 #request fsub
@@ -52,7 +52,7 @@ DATABASE_NAME = environ.get('DATABASE_NAME', "Cluster0")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'files')
 
 # Others
-LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1003082828281'))
+LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1003491128945'))
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'wudixh13')
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', 'True')), False)
 IMDB = is_enabled((environ.get('IMDB', 'False')), True)
