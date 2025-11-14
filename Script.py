@@ -7,7 +7,7 @@ class script(object):
 
 🚀 𝖠𝗇𝖽 𝗂’𝗅𝗅 𝗍𝖺𝗄𝖾 𝗂𝗍 𝖿𝗋𝗈𝗆 𝗍𝗁𝖾𝗋𝖾!
 
-<blockquote>©️ Maintained by <a href="https://t.me/im_goutham_josh">@im_goutham_josh</a></blockquote>"""
+<blockquote>©️ Maintained by <a href="https://t.me/laser_of_telegram">@laser_of_telegram</a></blockquote>"""
 
     HELP_TXT = """
 🙋🏻‍♂️ Hᴇʟʟᴏ {}! 🤓
@@ -29,10 +29,10 @@ class script(object):
     ABOUT_TXT = """<b>
 <blockquote>🤖 Nᴀᴍᴇ: ᴋᴜᴛᴛᴜ ʙᴏᴛ™</blockquote>
 
-👨‍💻 Cʀᴇᴀᴛᴏʀ: <a href="https://t.me/im_goutham_josh">Goutham SER</a>  
+👨‍💻 Cʀᴇᴀᴛᴏʀ: <a href="https://t.me/laser_of_telegram">FAX888</a>  
 💬 Lᴀɴɢᴜᴀɢᴇ: Pʏᴛʜᴏɴ 3  
 🗄️ Dᴀᴛᴀʙᴀsᴇ: Mᴏɴɢᴏ DB  
-🌐 Sᴇʀᴠᴇʀ: KᴏYᴇʙ
+🌐 Sᴇʀᴠᴇʀ: RENDER
 </b>"""
     SOURCE_TXT = """<b>📢 NOTE:</b>
 <blockquote>ᴋᴜᴛᴛᴜ ʙᴏᴛ™ is an open source project.</blockquote>
