@@ -143,8 +143,11 @@ This module only works for my admins.
 
 📦 Fɪʟᴇ Sɪᴢᴇ: 💾 <code>{file_size}</code>
 
-
-🔗 [⚡ Jᴏɪɴ Eʟᴅᴏʀᴀᴅᴏ ⚡](https://t.me/faxxbrohhmovies)</b></blockquote>"""
+Thank you for watching ❤️
+╔═══ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ═══╗
+➲ @cinema_companu
+➲ @fr_linkz
+╚═══ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ═══╝"""
     
     RESTART_GC_TXT = """
 <b>🔄 𝖡𝗈𝗍 𝖱𝖾𝗌𝗍𝖺𝗋𝗍𝖾𝖽!</b>
