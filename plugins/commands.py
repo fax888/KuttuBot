@@ -222,6 +222,7 @@ async def start(client, message: Message):
             [InlineKeyboardButton('⤬ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ⤬', url=f'http://t.me/{temp.U_NAME}?startgroup=true')],
             [InlineKeyboardButton('ʜᴇʟᴘ', callback_data='help'),
              InlineKeyboardButton('ᴀʙᴏᴜᴛ', callback_data='about')],
+            [InlineKeyboardButton("ɪɴʟɪɴᴇ", switch_inline_query_current_chat="")],
             [InlineKeyboardButton('© Dᴍᴄᴀ', callback_data='dmca')]
         ]
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -268,6 +269,7 @@ async def start(client, message: Message):
             [InlineKeyboardButton('⤬ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ⤬', url=f'http://t.me/{temp.U_NAME}?startgroup=true')],
             [InlineKeyboardButton('ʜᴇʟᴘ', callback_data='help'),
              InlineKeyboardButton('ᴀʙᴏᴜᴛ', callback_data='about')],
+            [InlineKeyboardButton("ɪɴʟɪɴᴇ", switch_inline_query_current_chat="")],
             [InlineKeyboardButton('© Dᴍᴄᴀ', callback_data='dmca')]
         ]
         reply_markup = InlineKeyboardMarkup(buttons)
