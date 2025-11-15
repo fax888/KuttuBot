@@ -218,13 +218,15 @@ async def start(client, message: Message):
 
     # If no argument → show menu and exit
     if not data:
-        buttons = [
-            [InlineKeyboardButton('⤬ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ⤬', url=f'http://t.me/{temp.U_NAME}?startgroup=true')],
-            [InlineKeyboardButton('ʜᴇʟᴘ', callback_data='help'),
-             InlineKeyboardButton('ᴀʙᴏᴜᴛ', callback_data='about')],
-            [InlineKeyboardButton("ɪɴʟɪɴᴇ", switch_inline_query_current_chat="")],
-            [InlineKeyboardButton('© Dᴍᴄᴀ', callback_data='dmca')]
-        ]
+        buttons = [[
+                    InlineKeyboardButton('⤬ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ⤬', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
+                ],[
+                    InlineKeyboardButton('ʜᴇʟᴘ', callback_data='help'),
+                    InlineKeyboardButton('ᴀʙᴏᴜᴛ', callback_data='about')
+                ],[
+                    InlineKeyboardButton('ɪɴʟɪɴᴇ', switch_inline_query_current_chat=""),
+                    InlineKeyboardButton('© Dᴍᴄᴀ', callback_data='dmca')
+                 ]]
         reply_markup = InlineKeyboardMarkup(buttons)
 
         await message.reply_photo(
@@ -265,13 +267,15 @@ async def start(client, message: Message):
         return
 
     if len(message.command) == 2 and message.command[1] in ["subscribe", "error", "okay", "help"]:
-        buttons = [
-            [InlineKeyboardButton('⤬ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ⤬', url=f'http://t.me/{temp.U_NAME}?startgroup=true')],
-            [InlineKeyboardButton('ʜᴇʟᴘ', callback_data='help'),
-             InlineKeyboardButton('ᴀʙᴏᴜᴛ', callback_data='about')],
-            [InlineKeyboardButton("ɪɴʟɪɴᴇ", switch_inline_query_current_chat="")],
-            [InlineKeyboardButton('© Dᴍᴄᴀ', callback_data='dmca')]
-        ]
+        buttons = [[
+                    InlineKeyboardButton('⤬ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ⤬', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
+                ],[
+                    InlineKeyboardButton('ʜᴇʟᴘ', callback_data='help'),
+                    InlineKeyboardButton('ᴀʙᴏᴜᴛ', callback_data='about')
+                ],[
+                    InlineKeyboardButton('ɪɴʟɪɴᴇ', switch_inline_query_current_chat=""),
+                    InlineKeyboardButton('© Dᴍᴄᴀ', callback_data='dmca')
+                 ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
             photo=random.choice(PICS),
