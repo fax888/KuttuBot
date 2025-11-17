@@ -2,10 +2,13 @@ class script(object):
     START_TXT = """<blockquote>👋🏻 Hᴇʟʟᴏ {}.</blockquote>
 𝖨’𝗆 𝖺𝗇 𝖺𝗎𝗍𝗈 𝖿𝗂𝗅𝗍𝖾𝗋 𝖻𝗈𝗍 𝗍𝗁𝖺𝗍 𝖼𝖺𝗇 𝗉𝗋𝗈𝗏𝗂𝖽𝖾 𝗆𝗈𝗏𝗂𝖾𝗌 𝗂𝗇 𝗒𝗈𝗎𝗋 𝗍𝖾𝗅𝖾𝗀𝗋𝖺𝗆 𝗀𝗋𝗈𝗎𝗉𝗌.
 
-➕ 𝖠𝖽𝖽 𝗆𝖾 𝗍𝗈 𝗒𝗈𝗎𝗋 𝗀𝗋𝗈𝗎𝗉  
-🛡️ 𝖯𝗋𝗈𝗆𝗈𝗍𝖾 𝗆𝖾 𝖺𝗌 𝖺𝗇 𝖠𝖽𝗆𝗂𝗇
+📺 𝙅𝙪𝙨𝙩 𝘼𝙙𝙙 𝙈𝙚 𝙏𝙤 𝙔𝙤𝙪𝙧 𝙂𝙧𝙤𝙪𝙥....
 
-🚀 𝖠𝗇𝖽 𝗂’𝗅𝗅 𝗍𝖺𝗄𝖾 𝗂𝗍 𝖿𝗋𝗈𝗆 𝗍𝗁𝖾𝗋𝖾!
+✅️ 𝙈𝙖𝙠𝙚 𝙈𝙚 𝘼𝙨 𝘼𝙙𝙢𝙞𝙣...
+
+✅️ 🎬 𝙄 𝙒𝙄𝙇𝙇 𝙋𝙧𝙤𝙫𝙞𝙙𝙚 𝙈𝙊𝙑𝙄𝙀𝙎 𝙏𝙝𝙚𝙧𝙚
+
+💯 𝙎𝙚𝙖𝙧𝙘𝙝 𝙈𝙤𝙫𝙞𝙚𝙨 𝙤𝙧 𝙎𝙚𝙧𝙞𝙚𝙨 𝙃𝙚𝙧𝙚.🔥
 
 <blockquote>©️ Maintained by <a href="https://t.me/laser_of_telegram">@laser_of_telegram</a></blockquote>"""
 
@@ -35,9 +38,7 @@ class script(object):
 🌐 Sᴇʀᴠᴇʀ: RENDER
 </b>"""
     SOURCE_TXT = """<b>📢 NOTE:</b>
-<blockquote>ᴋᴜᴛᴛᴜ ʙᴏᴛ™ is an open source project.</blockquote>
-
-🔗 <b>Source Code:</b> <a href="https://github.com/GouthamSER">Click Here 😂</a>
+<blockquote>ᴛʜɪs ʙᴏᴛ is ɴᴏᴛᴇ ᴀɴ open source project.</blockquote>
 
 <b>👨‍💻 DEVS:</b>  
 <blockquote><a href="https://t.me/laser_of_telegram">Fax 008 ✅</a></blockquote>
@@ -145,8 +146,8 @@ This module only works for my admins.
 
 Thank you for watching ❤️
 ╔═══ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ═══╗
-➲ @cinema_companu
-➲ @fr_linkz
+➲ <a href=https://t.me/cinema_companu> @cinema_companu </a>
+➲  <a href=https://t.me/fr_linkz> @fr_linkz </a>
 ╚═══ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ═══╝"""
     
     RESTART_GC_TXT = """
