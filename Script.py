@@ -30,12 +30,12 @@ class script(object):
 ⚠️ Pʟᴇᴀsᴇ ᴅᴏɴ’ᴛ sᴘᴀᴍ ᴛʜᴇ ʙᴏᴛ. 🙂
 """
     ABOUT_TXT = """<b>
-<blockquote>🤖 Nᴀᴍᴇ: ANGL™</blockquote>
+<blockquote>🤖 Nᴀᴍᴇ: LORD MARCO ™</blockquote>
 
 👨‍💻 Cʀᴇᴀᴛᴏʀ: <a href="https://t.me/laser_of_telegram">FAX888</a>  
 💬 Lᴀɴɢᴜᴀɢᴇ: Pʏᴛʜᴏɴ 3  
 🗄️ Dᴀᴛᴀʙᴀsᴇ: Mᴏɴɢᴏ DB  
-🌐 Sᴇʀᴠᴇʀ: RENDER
+🌐 Sᴇʀᴠᴇʀ: VPS
 </b>"""
     SOURCE_TXT = """<b>📢 NOTE:</b>
 <blockquote>ᴛʜɪs ʙᴏᴛ is ɴᴏᴛᴇ ᴀɴ open source project.</blockquote>
