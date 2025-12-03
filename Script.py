@@ -246,7 +246,7 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
     CUSTOM_FILE_CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
     
 FɪʟᴇSɪᴢᴇ : {file_size}</b>
-╔════•✧❅✦❅✧•═══╗
+ 
     RESTART_GC_TXT = """
  
 <b>🔄 𝖡𝗈𝗍 𝖱𝖾𝗌𝗍𝖺𝗋𝗍𝖾𝖽!</b>
