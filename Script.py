@@ -102,14 +102,6 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 𝖨𝖽 - <code>{}</code>
 𝖭𝖺𝗆𝖾 - {}"""
 
-    ALRT_TXT = """Hello {},
-This is Not your Request 😢
-Request Yourself...!!"""
-
-    OLD_ALRT_TXT = """Hey {},
-You are using one of old message 😒,
-Request Again"""
-
     CUDNT_FND = """<b><i>
 I ᴄᴏᴜʟᴅɴ'ᴛ ғɪɴᴅ ᴀɴʏᴛʜɪɴɢ ʀᴇʟᴀᴛᴇᴅ ᴛᴏ ʏᴏᴜʀ ʀᴇǫᴜᴇꜱᴛ. 
 Cʜᴏᴏꜱᴇ ᴛʜᴇ ᴄᴏʀʀᴇᴄᴛ ᴏɴᴇ ʙᴇʟᴏᴡ</i></b>"""
