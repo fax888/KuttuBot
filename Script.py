@@ -244,18 +244,4 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
     
 FɪʟᴇSɪᴢᴇ : {file_size}</b>
 ╔════•✧❅✦❅✧•═══╗
-➲ [OTTUpdates1TG](https://t.me/faxxbrohhmovies)
-➲ [BotUpdateChannel](http://t.me/fr_linkz)
-➲ [LatestMovieRelease](https://t.me/+5xjplvJC1IIyZTdl)
-╚════•✧❅✦❅✧•════╝"""
 
-    RESTART_TXT = """
-<b>𝖡𝗈𝗍 𝖱𝖾𝗌𝗍𝖺𝗋𝗍𝖾𝖽 !</b>
-
-📅 𝖣𝖺𝗍𝖾 : <code>{}</code>
-⏰ 𝖳𝗂𝗆𝖾 : <code>{}</code>
-🌐 𝖳𝗂𝗆𝖾𝗓𝗈𝗇𝖾 : <code>Asia/Kolkata</code>
-🛠️ 𝖡𝗎𝗂𝗅𝖽 𝖲𝗍𝖺𝗍𝗎𝗌 : <code>𝗏2.7.3 [ 𝖲𝗍𝖺𝖻𝗅𝖾 ]</code></b>"""
-
-    LOGO = """
-PIRO BOTS"""
