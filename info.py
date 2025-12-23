@@ -16,7 +16,7 @@ def is_enabled(value, default):
 SESSION = environ.get('SESSION', 'phoenixfilterbot')
 API_ID = int(environ.get('API_ID', '21383441'))
 API_HASH = environ.get('API_HASH', '62141d4cefa2756e4059cbdeac6ab46b')
-BOT_TOKEN = environ.get('BOT_TOKEN', '6669277616:AAF_Q7Q-JkDR1KczO6OiVFKYJA3NV2r28aU')
+BOT_TOKEN = environ.get('BOT_TOKEN', '8293467518:AAFmnI6BmK6cKB8Z1_kdPi_ZXeO7QVXp2G8')
 
 # Restart interval for auto-restart: use 'd' for days, 'h' for hours, 'm' for minutes
 # Examples !!! :
